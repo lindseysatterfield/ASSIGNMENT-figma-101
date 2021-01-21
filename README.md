@@ -5,6 +5,7 @@
 - Update the Readme with the items below
 
 ## Assignment
+- https://www.figma.com/file/MZ43tYJcuAP6KQxgzxV4pN/Untitled?node-id=4%3A15
 
 ### Sign up for [Figma](https://figma.com). 
   - You can use the education sign up at https://figma.com/education/apply and tell them you are a bootcamp student if you would like the full version.
